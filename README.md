@@ -54,7 +54,7 @@ O By You demonstrou como redes sociais corporativas podem ir além do relacionam
 
 ## 📎 Artigo Completo
 
-Você pode consultar o artigo completo [clicando aqui](./artigo_estudo_de_caso_rede_social_byyou_Totvs.pdf)) (PDF incluído neste repositório).
+Você pode consultar o artigo completo [clicando aqui](./artigo_estudo_de_caso_rede_social_byyou_Totvs.pdf) (PDF incluído neste repositório).
 
 ---
 
